@@ -36,6 +36,9 @@ Choosing New Show
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_msgbox.png"/>
 Message Box with WebTranslador Link (in blue)
 <hr>
+<img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_webtranslator.png"/>
+Bing webTranslator sample
+<hr>
 
 MIRRORS:
 
