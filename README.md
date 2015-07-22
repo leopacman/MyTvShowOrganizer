@@ -1,5 +1,6 @@
 # MyTvShowOrganizer
 Automatically download Torrents of your favorite TV-shows.
+
 MyTvShowsOrganizer is a Freeware program to automatically download Torrents of your favorite tv-Shows/Series episodes.
 Runs over WINDOWS (vista sp2, 7, 8 or newer, 32/64 bit auto).
 It gets the TV-Show name, episode and resolution; searchs the web at the chosen torrent searcher (kickass, torrentday, piratebay, torrentz among others). 
