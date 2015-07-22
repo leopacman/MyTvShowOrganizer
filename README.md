@@ -3,6 +3,7 @@ Automatically download Torrents of your favorite TV-shows.
 
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_mainpage.png"/>
 
+<hr>
 MyTvShowsOrganizer is a Freeware program to automatically download Torrents of your favorite tv-Shows/Series episodes.
 Runs over WINDOWS (vista sp2, 7, 8 or newer, 32/64 bit auto).
 It gets the TV-Show name, episode and resolution; searchs the web at the chosen torrent searcher (kickass, torrentday, piratebay, torrentz among others). 
@@ -25,22 +26,16 @@ Features:
 	    Subtitle Director.
 	Organizer function to Organize your Torrent Folder.
 	Many other Functions on Right-click Menus.
-
+<hr>
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_addnewshow.png"/>
 Adding New Show
-
-
-
+<hr>
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_tvcalendar.png"/>
 Choosing New Show
-
-
-
+<hr>
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_msgbox.png"/>
 Message Box with WebTranslador Link (in blue)
-
-
-
+<hr>
 
 MIRRORS:
 
@@ -51,10 +46,9 @@ https://googledrive.com/host/0B8t0ED-qcOtka3hMbm4yc2FaOE0/
 Code:
 
 https://drive.google.com/open?id=0B8t0ED-qcOtkUHFfUElkOTlIcmc
-
+<hr>
 
 History:
-
 
 Version 20150721.1
 -corrected minor bugs.
