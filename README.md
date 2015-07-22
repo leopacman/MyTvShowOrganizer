@@ -30,12 +30,16 @@ Features:
 Adding New Show
 
 
+
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_tvcalendar.png"/>
 Choosing New Show
 
 
+
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_msgbox.png"/>
-Message Box with WebTranslador link (in blue)
+Message Box with WebTranslador Link (in blue)
+
+
 
 
 MIRRORS:
