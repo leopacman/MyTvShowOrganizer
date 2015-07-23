@@ -1,5 +1,5 @@
 # MyTvShowOrganizer
-Automatically download Torrents of your favorite TV-shows.
+Automatically download Torrents of your favorite TV-shows Episodes.
 
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_mainpage.png"/>
 
