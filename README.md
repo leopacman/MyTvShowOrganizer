@@ -51,7 +51,20 @@ Code:
 https://drive.google.com/open?id=0B8t0ED-qcOtkUHFfUElkOTlIcmc
 <hr>
 
+Video:
+
+www.youtube.com/watch?v=rJEiTYi4lbU
+<hr>
+
 History:
+
+Version 20150724.1
+-Corrected AddNewShow function not Displaying correct
+message box in some cases.
+-Others minor display corrections.
+-Added link for Newest Tv-Shows 'Additions' on Mouse
+Right-click menu.
+
 
 Version 20150721.1
 -corrected minor bugs.
