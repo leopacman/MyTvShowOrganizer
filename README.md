@@ -1,7 +1,7 @@
 # MyTvShowOrganizer
 Automatically download Torrents of your favorite TV-shows Episodes.
 
-<DIV color="red"> DOWNLOADS: </div>
+<DIV style="color:red"> DOWNLOADS: </div>
 
 Installer and Code:
 
