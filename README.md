@@ -1,6 +1,20 @@
 # MyTvShowOrganizer
 Automatically download Torrents of your favorite TV-shows Episodes.
 
+MIRRORS:
+
+Installer and Code:
+
+https://googledrive.com/host/0B8t0ED-qcOtka3hMbm4yc2FaOE0/
+
+<hr>
+
+YouTube:
+
+www.youtube.com/watch?v=rJEiTYi4lbU
+
+<hr>
+
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_mainpage.png"/>
 
 <hr>
@@ -38,20 +52,6 @@ Message Box with WebTranslador Link (in blue)
 <hr>
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_webtranslator.png"/>
 Bing webTranslator sample
-<hr>
-
-MIRRORS:
-
-Installer and Code:
-
-https://googledrive.com/host/0B8t0ED-qcOtka3hMbm4yc2FaOE0/
-
-<hr>
-
-YouTube:
-
-www.youtube.com/watch?v=rJEiTYi4lbU
-
 <hr>
 
 History:
