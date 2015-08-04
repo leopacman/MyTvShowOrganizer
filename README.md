@@ -32,6 +32,7 @@ Features:
     		3 Step program:
 	1 - Add new TV-Shows with mouse right-click over a free spot.
 	2 - Use 'NextEpisode' Function to see all available torrent to download.
+	    In newer version will do automatically.
 	3 - Hit 'Get Torrent' button to get your torrents.
 	Get All episodes of current Season (mouse right-click menu on checkbox).
 	Get Torrent through all Pages function (right-click over GetTorrent function).
@@ -56,18 +57,19 @@ Bing webTranslator sample
 
 History:
 
-Version 20150730.1
+Version 20150804.1
+-'Next Episode' function will run automatically.
+
+Version 20150801.1
 -Correct an Issue that Update was returning
- an Trust Not Granted error.
--If you are having this error, try uninstall and
- reinstall a new version.
+ a Trust Not Granted error.
 
 Version 20150724.1
 -Corrected AddNewShow function not Displaying correct
-message box in some cases.
+ message box in some cases.
 -Others minor display corrections.
 -Added link for Newest Tv-Shows 'Additions' on Mouse
-Right-click menu.
+ Right-click menu.
 
 Version 20150721.1
 -corrected minor bugs.
