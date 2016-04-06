@@ -42,7 +42,7 @@ Features:
 	Many other Functions on Right-click Menus.
 <hr>
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_addnewshow.png"/>
-Adding New Show
+Menu Functions
 <hr>
 <img src="https://googledrive.com/host/0B8t0ED-qcOtkUURzRlZ0cnVrbXc/mtvso_tvcalendar.png"/>
 Choosing New Show
