@@ -3,10 +3,11 @@ Automatically download Torrents of your favorite TV-shows Episodes.
 
 <DIV style="color:red"> DOWNLOADS: </div>
 
-Download Installer and/or Code:
+Download Installer and/or Source Code from Google Drive:
 
 https://sourceforge.net/projects/mytvshoworganizer/
-https://googledrive.com/host/0B8t0ED-qcOtka3hMbm4yc2FaOE0/
+https://drive.google.com/open?id=0B8t0ED-qcOtkWU5UWk1CQmZLUlU
+https://drive.google.com/open?id=0B8t0ED-qcOtkc1dDRi1IZ3NqUk0
 
 <hr>
 
