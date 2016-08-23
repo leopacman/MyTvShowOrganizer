@@ -4,10 +4,11 @@ Automatically download Torrents of your favorite TV-shows Episodes.
 <DIV style="color:red"> DOWNLOADS: </div>
 
 Download Installer and/or Source Code from Google Drive:
-
-https://sourceforge.net/projects/mytvshoworganizer/
-https://drive.google.com/open?id=0B8t0ED-qcOtkWU5UWk1CQmZLUlU
-https://drive.google.com/open?id=0B8t0ED-qcOtkc1dDRi1IZ3NqUk0
+<a href='http://www.hardware.com.br/artigos/'>Artigos</a>
+<a href="https://sourceforge.net/projects/mytvshoworganizer/">See More at SourceForge</a><BR><hr>
+ <a href="https://sourceforge.net/projects/mytvshoworganizer/">See More at SourceForge</a><BR><hr>
+https://drive.google.com/open?id=0B8t0ED-qcOtkVTdhWmpuV1U1ZkU <BR><hr>
+https://drive.google.com/open?id=0B8t0ED-qcOtkc1dDRi1IZ3NqUk0 <BR><hr>
 
 <hr>
 
