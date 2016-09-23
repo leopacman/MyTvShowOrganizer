@@ -5,7 +5,7 @@ Automatically download Torrents of your favorite TV-shows Episodes.
 
 Download Installer and/or Source Code from Google Drive:
 <BR><hr>
-<a href="https://sourceforge.net/projects/mytvshoworganizer/">See More at SourceForge</a><BR><hr>
+<a href="https://sourceforge.net/projects/mytvshoworganizer/">DOWNLOAD INSTALLER FROM SOURCEFORGE.NET</a><BR><hr>
 <a href="https://drive.google.com/file/d/0B8t0ED-qcOtkMDJpc0xSSmcwVWs/view?usp=sharing">DOWNLOAD INSTALLER FROM GOOGLE DRIVE</a><BR><hr>
 <a href="https://drive.google.com/file/d/0B8t0ED-qcOtkby01RnU5bnZxa28/view?usp=sharing">DOWNLOAD SOURCECODE FROM GOOGLE DRIVE</a><BR><hr>
 
